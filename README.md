@@ -79,17 +79,9 @@ MEASUREMENT OF BENDING LOSSES:
 
 **Tabulation:**
 
-### Propagation Loss
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/9c11bf19-a51e-47a6-afd7-ce8c272396b4" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/090b545b-d5fa-4790-82d8-5a27b278c970" />
 
-| Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
-|--------------|---------------------|------------------------|
-|              |                     |                        |
-
-### Bending Loss
-
-| Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
-|------------------|---------------------|------------------------|
-|                  |                     |                        |
 
 **Result:**  
 Attenuation and bending loss characteristics verified.
